@@ -1,3 +1,3 @@
 # Documentation
 
-This is my GIT practice repository. 
+This is my GIT practice repository. Its content is absolutly unimportant.
